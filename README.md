@@ -1,2 +1,2 @@
 # NoInternet
-Just a stupid app made by a stupid guy
+Just a stupid website made by a stupid guy
